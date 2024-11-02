@@ -14,27 +14,29 @@ The project follows the Model-View-Controller (MVC) design pattern, which separa
 ![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/%20UML%20class%20diagram.jpg)
 
 
-Login Form
+# Login Form
 ![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/%20Login%20page.png)
 A Starting page with a login form appears in the middle and the window where the user can enter their email and password to log in.
 
 
 
 
-Register Form
-![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/%20Login%20page.png)](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/Register%20page%20.png)
+# Register Form
+![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/%20Login%20page.png)
+
 A page with a registration form where the user can create a new account with their email and password.
 
 
 
-Transaction CRUD, Table View
+# Transaction CRUD, Table View
 ![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/Expense%20Record.png)
+
 Users can add transactions with category, amount, date and description information by the addButton. Users can search transactions with category and description information by the searchButton. Once the transaction is selected, it can be edited or deleted.
 
 
 
 
-Transaction record Edit
+# Transaction record Edit
 ![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/Edit%20page.jpg)
 Users can choose the transaction record and do the modification for that record.
 
