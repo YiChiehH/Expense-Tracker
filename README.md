@@ -44,7 +44,7 @@ Users can choose the transaction record and do the modification for that record.
 
 
 
-Pie chart
+# Pie chart
 ![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/Pie%20Chart.png)
 After entering transactions, the application would offer the user a visualization of data.
 
