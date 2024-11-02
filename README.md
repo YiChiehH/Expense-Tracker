@@ -38,6 +38,7 @@ Users can add transactions with category, amount, date and description informati
 
 # Transaction record Edit
 ![image](https://github.com/YiChiehH/Expense-Tracker/blob/main/img/Edit%20page.jpg)
+
 Users can choose the transaction record and do the modification for that record.
 
 
